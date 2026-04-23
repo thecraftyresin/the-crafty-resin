@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>The Crafty Resin</title>
 
 <style>
 body{
